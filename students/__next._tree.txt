@@ -1,0 +1,8 @@
+:HL["/dp-careers-data/_next/static/chunks/19gslye8f45jt.css","style"]
+:HL["/dp-careers-data/_next/static/chunks/3olr8_mxwcttz.css","style"]
+:HL["/dp-careers-data/_next/static/media/ad9c66e761fed85a-s.p.0fhiaplbf_4wa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://digital-plus.co.jp/src/images/logo.svg","image"]
+:HL["https://digital-plus.co.jp/src/images/footer_logo.svg","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"students","h":64,"c":"$Q2"}]]
+0:{"b":"rRzIGigtC4d9vXY4g-K5P","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
